@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 305a91d6f8219504386ca72dce37a664
+labels:
+- PBR
+- bare
+- steel
+- iron
+- texture
+- material
+- metal
+- shiny
+- dirty
+- dusty
+- patches
+timeCreated: 1433877600
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
